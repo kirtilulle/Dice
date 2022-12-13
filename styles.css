@@ -1,0 +1,45 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+flex: 50%;
+padding: 5px;
+
+}
+.diceR{
+  display: flex;
+}
+
+body {
+  background-color: #FFF6E9;
+}
+
+h1 {
+  margin: 30px;
+  font-family: ui-monospace;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #14213D;
+}
+
+p {
+  font-size: 2rem;
+  color: #9D78BE;
+  font-family: ui-monospace;
+}
+
+img {
+  width: 50%;
+}
+
+
+footer {
+  margin-top: 5%;
+  color: #4F3268;
+  text-align: center;
+  font-family: ui-monospace;
+
+}
